@@ -16,6 +16,9 @@ public class todo {
     private String nome, descricao;
     private boolean realizado;
     private int prioridade;
+
+    
+
     public long getId() {
         return id;
     }
